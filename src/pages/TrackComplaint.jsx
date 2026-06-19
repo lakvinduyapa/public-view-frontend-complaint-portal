@@ -141,7 +141,7 @@ function TrackComplaint() {
 </tr>
 
 <tr>
-  <th>Additional Information:</th>
+  <th>Additional Information :</th>
   <td>{displayValue(complaintDetails.additionalInformation)}</td>
 </tr>
                   
